@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the commanders and officers of the fleet of this Common-wealth unto General Monck in Scotland. Dated the 4th. of November 1659.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48084</idno>
+            <idno type="STC">Wing L1516</idno>
+            <idno type="STC">ESTC R217628</idno>
+            <idno type="EEBO-CITATION">99829286</idno>
+            <idno type="PROQUEST">99829286</idno>
+            <idno type="VID">33723</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48084)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33723)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1992:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the commanders and officers of the fleet of this Common-wealth unto General Monck in Scotland. Dated the 4th. of November 1659.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Sarah Griffin for Thomas Hewer, and are to be sold at her house in Eliots Court in the little Old Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33723:1" rendition="simple:additions"/>
+            <p>A LETTER FROM THE COMMANDERS AND OFFICERS OF THE FLEET Of this <hi>COMMON-WEALTH,</hi> Unto General <hi>MONCK</hi> in <hi>SCOTLAND.</hi> Dated the 4th. of <hi>November</hi> 1659.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Sarah Griffin</hi> for <hi>Thomas Hewer,</hi> and are to be ſold at her houſe in <hi> Eliots Court</hi> in the little <hi>Old Baily,</hi> 1659.</p>
+            <pb facs="tcp:33723:2"/>
+            <pb facs="tcp:33723:2" rendition="simple:additions"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:33723:3"/>
+            <pb n="1" facs="tcp:33723:3"/>
+            <head>A LETTER FROM THE COMMANDERS AND OFFICERS of the FLEET of this <hi>COMMON-WEALTH,</hi> un to General <hi>Monck in</hi> SCOTLAND</head>
+            <p>THE deep ſenſe we have of the duty in<g ref="char:EOLhyphen"/>cumbent on us in this day of <hi>Englands</hi> fears, tryals and temptations, puts us up<g ref="char:EOLhyphen"/>on this Application to your Honour unto whom not long ſince moſt of us had a more immediate relation, and the experience we had then of your readineſs to receive and grant our juſt deſires, gives us encouragement to be<g ref="char:EOLhyphen"/>leive this preſent tender will have the like Re<g ref="char:EOLhyphen"/>ſentment.</p>
+            <pb n="2" facs="tcp:33723:4"/>
+            <p>As private Members of this Common-wealth, we cannot but take notice of, and in ſecret be<g ref="char:EOLhyphen"/>wail before the Lord, the inteſtine diviſions that are amongſt us at this day; and the dreadfull conſequence likely to enſue thereupon, when duely pondered, do exceedingly afflict, and even break our hearts.</p>
+            <p>All the force, that the common Enemy, (whil'ſt in his ſtrength) were able to muſter up againſt the good people of this Nation, either at home or fro<g ref="char:cmbAbbrStroke">̄</g> abroad, could never raiſe ſuch clouds of fears, nor impreſſe thoſe terrors on our hearts, as we nowly under fro<g ref="char:cmbAbbrStroke">̄</g> the apprehenſion of that evill which attends that diſtance, which is be<g ref="char:EOLhyphen"/>tween you, and the Army in <hi>England,</hi> which being manifeſted to us by a declaration lately ſent from <hi>Scotland,</hi> and publiſhed by your Com<g ref="char:EOLhyphen"/>mand and reſolutions therein expreſſed, of your vindicaing the late Parliament in oppoſition to the general proceeding of the General Coun<g ref="char:EOLhyphen"/>cils of Officers here. We have taken the bold<g ref="char:EOLhyphen"/>neſſe not only as private Chriſtians, but in our publick capacity as Officers of the Fleet to be<g ref="char:EOLhyphen"/>ſeech you (in the bowels of mercy and com<g ref="char:EOLhyphen"/>paſſion to this your native Country, and eſpe<g ref="char:EOLhyphen"/>cially to all the Lords people therein, whoſe intereſt we remember hath formerly been precitious to you.) ſeriouſly to conſider.</p>
+            <p n="1">1. Whether the undertaking you are ingaged in, will not make the hearts of the righ<g ref="char:EOLhyphen"/>teous in theſe Nations ſad, whom the Lord hath not made ſad, and ſtrengthen the
+<pb n="3" facs="tcp:33723:4"/> hands of the wicked, that he ſhould not return from his wicked way; It being ob<g ref="char:EOLhyphen"/>vious to us where ever we come, that few or none take pleaſure in your proceedings but the Cavaleers, who make their boaſt of you, &amp; place their co<g ref="char:cmbAbbrStroke">̄</g>fidence in you, which as it is irkeſome to us to hear, ſo we truſt, and ſhall pray, that the Lord will preſerve you from ſuch a defection, as knowing that never any proſpered that helped them.</p>
+            <p n="2">2. Whether this ſudden Reſolution againſt your Brethren of the Army on account of their late tranſactions, have not ſome pro<g ref="char:EOLhyphen"/>portion with what the Iſraelites intended againſt the Tribes of <hi>Ruben, Gad,</hi> and half tribe of <hi>Manaſſeth,</hi> when they had built an Altar of Memorial on this ſide <hi>Jordan,</hi> and whether the ſame means, (if uſed by you for information of matter of fact as by them) might not through the Lords bleſſing have the ſame effect, and thereby not only bloudſhed be prevented, but the work of Reformation carryed on.</p>
+            <p>And truly though we ſhall not undertake to juſtifie the Army in their late Action, as being very unable to judge of ſuch important affairs, (not having been of their Council (yet we hope that in the integrity of their heart, and inno<g ref="char:EOLhyphen"/>cency of their hands, they have done this thing which we apprehend to be the ground of your diſſatisfaction; And on this occaſion we crave
+<pb n="4" facs="tcp:33723:5"/> leave to remind you, that as you were ſatisfied with the former diſſolution of this very Parlia<g ref="char:EOLhyphen"/>ment in the year 1653. and were pleaſed to con<g ref="char:EOLhyphen"/>tinue your command at Sea in that Juncture, (when as the undertaking of the late Lord General <hi>Cromwell</hi> was not ſo clear to others) and through the bleſſing of God obtained two ſignal Victories againſt the Dutch, even in that <hi>Inter<g ref="char:EOLhyphen"/>regnum,</hi> ſo we earneſtly deſire you will hearken unto, and receive ſatisfaction from, the Officers of the Army, in what they have to offer in this particular.</p>
+            <p n="3">3. We humbly offer to conſideration, whether in your own Obſervation, it be not appa<g ref="char:EOLhyphen"/>rent, that this Army have in their actings hitherto Cordially deſigned the advance<g ref="char:EOLhyphen"/>ment of Gods glory, and the promoting and incoragement of godlineſs and vertue though in perſons of different judge<g ref="char:EOLhyphen"/>ments, and perſwaſions, and whether the cauſe of God, and his people hath not hereby been preſerved, and maintained a<g ref="char:EOLhyphen"/>gainſt all oppoſition.</p>
+            <p n="4">4. Whether by ſuch an undertaking (if proſe<g ref="char:EOLhyphen"/>cuted,) the Common Enemy in <hi>Scotland</hi> will not ſoon recover ſtrength, and be<g ref="char:EOLhyphen"/>come as obnoxious to <hi>England,</hi> as in for<g ref="char:EOLhyphen"/>mer times, though of late through your ſingular prudence induſtry and care they have been kept under.</p>
+            <p>And whether the eſpouſing of an intereſt (di<g ref="char:EOLhyphen"/>ſtinct from your brethren of the Army in <hi>England</hi>
+               <pb n="5" facs="tcp:33723:5"/> as is reported) contrary to thoſe righteous prin<g ref="char:EOLhyphen"/>ciples, that have hitherto been contended for, will not (inſtead of purchaſing our deſired Li<g ref="char:EOLhyphen"/>berties) render the good people of theſe Nations to a condition of perfect thraldome, &amp; bondage.</p>
+            <p>The ſtate of Affaires being ſuch in our weak ap<g ref="char:EOLhyphen"/>prehenſions we have taken this freedom to un<g ref="char:EOLhyphen"/>boſom our hearts to your Honour, and ſhall earneſtly pray they may take ſome place with you, in order to the begetting of a good Under<g ref="char:EOLhyphen"/>ſtanding, and agreement between your ſelf, and your brethren here, that both you and they, as alſo our ſelves in our ſeveral ſtations by Land and Sea, may with one heart, and conſent be found doing the Lords Work in this preſent Ge<g ref="char:EOLhyphen"/>neration, in oppoſition to all Corrupt intereſts whatſoever; In attending whereunto, a bleſ<g ref="char:EOLhyphen"/>ſing may be expected from the Lord; In him we are</p>
+            <closer>
+               <date>
+                  <hi>Nov.</hi> 4<hi rend="sup">th</hi>. 1655.</date>
+               <signed>Your Honours humble Servants
+<list>
+                     <item>
+                        <hi>Rich. Stayner.</hi>
+                     </item>
+                     <item>
+                        <hi>John Lambert.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Lunn.</hi>
+                     </item>
+                     <item>
+                        <hi>John Bourne.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Clark</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Sparling.</hi>
+                     </item>
+                     <item>
+                        <hi>Bartho. Ketcher</hi>
+                     </item>
+                     <item>
+                        <hi>Charles Wager.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Newbery.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Fenn.</hi>
+                     </item>
+                     <item>
+                        <hi>Fran. Allen.</hi>
+                     </item>
+                     <item>
+                        <hi>Nath Browne.</hi>
+                     </item>
+                     <item>
+                        <hi>Peter Bowen.</hi>
+                     </item>
+                     <item>
+                        <hi>William Go<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>an</hi>
+                     </item>
+                     <item>
+                        <hi>Ju<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> Stoakes.</hi>
+                     </item>
+                     <item>
+                        <hi>Anth. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>vning.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Story.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Pack.</hi>
+                     </item>
+                     <item>
+                        <hi>Ja<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Grove.</hi>
+                     </item>
+                     <item>
+                        <hi>Edw.. Witheridge.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lb<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>k.</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſtoph. Myngs.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
